@@ -44,6 +44,7 @@ Doc Whisperer offers several compelling benefits for developers and technical wr
 
 Whether you're a solo developer or part of a large team, Doc Whisperer empowers you to produce high-quality code documentation quickly and easily.
 
+> **Warning:** If the code block vanishes, you can edit and save or resend the message.
 
 ### Get Started:
  
