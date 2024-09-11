@@ -1,8 +1,10 @@
 ## Doc Whisperer: Effortless Code Documentation
 
+![app](https://github.com/user-attachments/assets/b32ed3f2-e256-472b-a6f4-9897aded79f3)
+
 Doc Whisperer is a web application that leverages the power of Google Gemini to automatically generate various types of code documentation for you. Whether you need inline comments, block documentation, API usage examples, or even a full README file, Doc Whisperer can handle it.
 
-**Live Demo:** [https://doc-whisperer.vercel.app/](https://doc-whisperer.vercel.app/) (Replace with your actual demo URL if available)
+**Live Demo:** 
 
 ### Features:
 
